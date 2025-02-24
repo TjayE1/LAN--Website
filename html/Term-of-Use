@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LAN| Terms-Of-Use</title>
+    <link rel="stylesheet" href="/css/index.css">
+</head>
+
+<body>
+    <header style="display: flex; justify-content: space-between; align-items: center; background-image: url('IMG_7955.jpg'); background-size: cover; background-position: center; height: 50px; padding: 10px; position: relative;">
+        <div class="logo" style="flex: 1; color: white; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7);">
+            <a href="index.html" style="text-decoration: none; color: white;">
+                <h1 style="margin: 0;">LAN ACCOUNTING FIRM</h1>
+            </a>
+        </div>
+        <nav style="flex: 1; text-align: right;">
+            <ul style="list-style: none; padding: 0; margin: 0; display: flex; justify-content: flex-end;">
+                <li style="margin-left: 20px;"><a href="who-we-are(service).html" style="text-decoration: none; color: white;">Services</a></li>
+                <li style="margin-left: 20px;"><a href="what-we-do(about).html" style="text-decoration: none; color: white;">About</a></li>
+                <li style="margin-left: 20px;">
+                    <a href="think.html" class="dropdown-toggle" style="text-decoration: none; color: white;">Resources</a>
+                    <div class="dropdown" style="display: none;">
+                        <div class="dropdown-links">
+                            <a href="think.html" style="text-decoration: none; color: white;">Blog</a>
+                        </div>
+                    </div>
+                </li>
+                <li style="margin-left: 20px;"><a href="contact.html" style="text-decoration: none; color: white;">Contact Us</a></li>
+            </ul>
+        </nav>
+        <img src="IMG_7955.jpg" alt="Logo" style="width: 60px; height: auto; margin-left: auto; opacity: 12; position: absolute; right: 10px; top: 50%; transform: translateY(-50%);">
+    </header>
+<div class="terms">
+    <p><b>Terms of Use for LAN ACCOUNTING FIRM</b></p>
+</h1>
+<h3> Welcome to the online services provided by LAN ACCOUNTING FIRM . By accessing, using, or interacting with our website, services, or any content provided, you you agree to comply with and be bound by the following Terms of Use. These Terms govern your access to and use of the services offered by our firm. If you do not agree to these terms, please do not use our website or services.
+</h3>
+<b>1. Acceptance of Terms</b>
+    By accessing or using our website or services, you accept and agree to be bound by these Terms of Use and our Privacy Policy. We reserve the right to modify, update, or change these Terms at any time, and such changes will be posted on this page with an updated "Effective Date". It is your responsibility to review these Terms regularly. Continued use of the services after such changes constitutes your acceptance of the updated Terms.
+
+<b>2. Services Provided</b>
+    LAN ACCOUNTING FIRM offers accounting and financial services, including but not limited to: <br>
+    Tax Preparation and Filing <br>
+    Bookkeeping Services <br>
+    Payroll Processing <br>
+    Business Financial Consulting <br>
+    Audit and Assurance Services <br>
+    Financial Planning and Reporting The services we provide are intended for individuals and businesses seeking professional financial assistance.
+<b>3. Eligibility</b>
+    To use our services, you must be at least 18 years old and legally capable of entering into binding contracts under applicable law. By using our services, you represent and warrant that you meet these eligibility requirements. <br>
+<b>4. User Accounts</b>
+    Certain services on our website may require the creation of an account. By creating an account, you agree to provide accurate, current, and complete information and to keep your account information updated. You are solely responsible for maintaining the confidentiality of your account credentials, and you agree to notify us immediately if you suspect any unauthorized use of your account. <br>
+    You are responsible for all activities that occur under your account, whether or not you authorize them. We are not responsible for any loss or damage arising from unauthorized use of your account. <br>
+
+<b>5. Fees and Payment</b>
+    Our services are provided in exchange for fees, which will be clearly outlined in the service agreement or engagement letter specific to the service you request. Payment terms, including any applicable taxes, will be disclosed and agreed upon in advance. By agreeing to use our services, you agree to pay all fees associated with the services you select. Failure to make payment as agreed may result in the suspension or termination of services.
+
+<b>6. Confidentiality and Privacy</b>
+    At LAN ACCOUNTING FIRM, we are committed to maintaining the confidentiality of your personal and business information. We adhere to strict privacy and security standards in handling all data provided by you. We will not disclose any personal information to third parties without your consent, except as required by law or as necessary to perform the services you request.
+    For more information on how we handle your data, please refer to our Privacy Policy, which is incorporated by reference into these Terms of Use.
+
+<b>7. Use of Our Website</b>
+    You agree to use our website and services only for lawful purposes and in a manner consistent with these Terms of Use. You may not use our website to:
+    Engage in illegal or fraudulent activity
+    Upload, distribute, or transmit harmful or malicious content (e.g., viruses, malware)
+    Attempt to gain unauthorized access to any part of our website or services
+    Disrupt, damage, or impair the functionality of our website or services
+    We reserve the right to restrict or suspend access to our website or services at our sole discretion for any violation of these Terms.
+
+<b>8. Intellectual Property</b>
+    All content provided on our website, including but not limited to text, images, logos, graphics, software, and the structure and design of the site itself, is the property of LAN ACCOUNTING FIRM and is protected by intellectual property laws. You may not copy, modify, reproduce, distribute, or otherwise use any of our content without our express written permission.
+
+<b>9. Limitation of Liability</b>
+    To the fullest extent permitted by law, LAN ACCOUNTING FIRM will not be held liable for any direct, indirect, incidental, special, or consequential damages arising from the use or inability to use our website or services. This includes, but is not limited to, any loss of profits, data, or reputation. We do not guarantee the accuracy or completeness of the information provided on our website and are not responsible for any errors or omissions.
+
+10. Indemnification
+    You agree to indemnify and hold harmless LAN ACCOUNTING FIRM, its affiliates, employees, agents, and partners from any claims, damages, losses, liabilities, or expenses (including attorney's fees) arising out of or related to your use of our website, services, or any violation of these Terms.
+
+11. Termination
+    We reserve the right to terminate or suspend your access to our website or services at our sole discretion, without prior notice, for any violation of these Terms of Use. Upon termination, all rights granted to you under these Terms will immediately cease, and you must promptly stop using our website and services.
+
+12. Governing Law and Dispute Resolution
+    These Terms of Use are governed by and construed in accordance with the laws of [Jurisdiction/State], without regard to its conflict of laws principles. Any disputes arising out of or related to these Terms or the use of our services shall be resolved through binding arbitration in [City, State], in accordance with the rules of the American Arbitration Association (AAA).
+
+13. Force Majeure
+    We shall not be held responsible for any failure or delay in performing our obligations under these Terms if such failure is caused by events beyond our control, including but not limited to natural disasters, strikes, or technical failures.
+
+14. Changes to the Terms
+    LAN ACCOUNTING FIRM reserves the right to modify these Terms at any time. Any changes to these Terms will be posted on this page with an updated effective date. Your continued use of our website and services after any changes constitutes your acceptance of the revised Terms.
+
+15. Contact Information
+    If you have any questions or concerns about these Terms of Use, please contact us at: LAN ACCOUNTING FIRM
+    [Insert Contact Information: Phone, Email, Address]
+
+    By using our services or accessing our website, you acknowledge that you have read, understood, and agree to these Terms of Use.
+
+
+
+</div>
+   
+</body>
+</html>
