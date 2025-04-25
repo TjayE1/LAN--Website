@@ -1,3 +1,21 @@
+<!--<?php
+
+    require 'connect.php';
+    if(isset($_POST["submit"])){
+        $name = $_POST["first_name"];
+        $name = $_POST["last_name"];
+        $name = $_POST["email"];
+        $name = $_POST["company"];
+        $name = $_POST["phone"];
+
+      $query = "INSERT INTO news_letter VALUES('','$first_name','$last_name','$email','$company','$phone')";
+      mysqli_query($conn, $query);
+      echo
+      "
+      <script> alert('Data Inserted Successfully'); </script>
+      ";
+    }
+?>-->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -33,23 +51,30 @@
         </nav>
         <img src="/LAN--Website/assets/logo/IMG_7955.jpg" alt="Logo" style="width: 60px; height: auto; margin-left: auto; opacity: 12; position: absolute; right: 10px; top: 50%; transform: translateY(-50%);">
     </header>
-    <div style="background: white; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); width: 300px; text-align: center; margin-top: 40px; margin-left: 400px; height: 300px;">
-        <h2 style="margin-bottom: 20px;">Login</h2>
+    <div style="background: white; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); width: 360px; text-align: center; margin-top: 40px; margin-left: 400px; height: 570px;">
+        <h2 style="margin-bottom: 20px; color: black;">Login</h2>
         
-        <form action="submit_form.php" method="POST">
-            <!--<?php include('errors.php'); ?>-->
+        <form action="" method="post" autocomplete="off">
+            <label for="" style="display: block; color: rgb(86, 56, 11);">FirstName</label>
             <input type="text" name="first_name" placeholder="First Name" required 
                 style="width: 100%; padding: 10px; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px;">
-
+        <label for="" style="display: block; color: rgb(86, 56, 11);">LastName</label>
             <input type="text" name="last_name" placeholder="Last Name" required 
                 style="width: 100%; padding: 10px; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px;">
-
+        <label for="" style="display: block; color: rgb(86, 56, 11);">Email</label>
             <input type="email" name="email" placeholder="Email" required 
                 style="width: 100%; padding: 10px; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px;">
-
+         <label for="" style="display: block; color: rgb(113, 76, 113);">PhoneNumber</label>
             <input type="tel" name="phone" placeholder="Phone Number" required 
                 style="width: 100%; padding: 10px; margin-bottom: 20px; border: 1px solid #ccc; border-radius: 5px;">
-
+        <label for="" style="display: block; color: rgb(86, 56, 11);">Company</label>    
+           <select name="company" required>
+                <option value="" selected hidden >Select Feild</option>
+                <option value="NGO">NGO</option>
+                <option value="Student">Student</option>
+                <option value=" Business">Business</option>
+                <option value="other">other</option>
+           </select>
             <button type="submit" 
                 style="width: 100%; padding: 10px; background-color: gold; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">
                 Submit
